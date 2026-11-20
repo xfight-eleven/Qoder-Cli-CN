@@ -1,0 +1,7 @@
+"agent_servers": {
+  "Qoder CLI CN": {
+    "type": "custom",
+    "command": "C:\\Users\\you\\AppData\\Roaming\\npm\\qodercn.cmd",
+    "args": ["--acp"]
+  }
+}

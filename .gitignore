@@ -1,0 +1,4 @@
+settings.json.bak.*
+*.bak
+.DS_Store
+__pycache__/
